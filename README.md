@@ -1,6 +1,14 @@
 # dPCA
 Simple interactive PCA application for gene expression analysis
 
+## Requirements
+
+MATLAB (has only been tested on 2015b)
+
+## Installation
+
+Double click the installer package "dPCA.mlappinstall". To run, select the program from the "APPS" menu in MATLAB.
+
 ## Input
 
 1. Data matrix with measurements
