@@ -3,9 +3,9 @@ Simple interactive PCA application for gene expression analysis
 
 ## Input
 
-* Data matrix with measurements
-* Sample information, such as experimental conditions (optional)
-* Results from differential expression tests, or any other external data that can be used to filter genes (optional)
+1. Data matrix with measurements
+2. Sample information, such as experimental conditions (optional)
+3. Results from differential expression tests, or any other external data that can be used to filter genes (optional)
 
 ## Data options
 
